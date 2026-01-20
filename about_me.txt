@@ -1,0 +1,4 @@
+My name is Manita. I'm currently a junior majoring in Computer Science. 
+After exploring many tech fields, I have come to find myself passionate about Data Science and AI. Although these two 
+are my primary interests, I'm also open to learn other tech topics such as Web Development. I hope I will be able to 
+strengthen my front-end web development skill by the end of this course.
